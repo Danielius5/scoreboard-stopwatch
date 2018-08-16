@@ -14,3 +14,5 @@ Using _config/config.js_ file you can customize:
 
 ### Fun fact
 If you run the stopwatch for 2.8 million years, it will reach the maximum safe integer value and crash. :)
+
+![stopwatch image](https://i.imgur.com/Cn62PSn.png)
